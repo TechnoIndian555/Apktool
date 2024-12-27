@@ -135,9 +135,9 @@ subprojects {
                             }
                         }
                         scm {
-                            connection = "scm:git:git://github.com/revanced/Apktool.git"
-                            developerConnection = "scm:git:git@github.com:revanced/Apktool.git"
-                            url = "https://github.com/revanced/Apktool"
+                            connection = "scm:git:git://github.com/TechnoIndian555/Apktool.git"
+                            developerConnection = "scm:git:git@github.com:TechnoIndian555/Apktool.git"
+                            url = "https://github.com/TechnoIndian555/Apktool"
                         }
                     }
                 }
